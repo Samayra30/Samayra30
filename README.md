@@ -113,7 +113,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samayra30&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Samayra30&theme=tokyonight"/>
 
 </p>
 
@@ -123,7 +123,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samayra03&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samayra30&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -139,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Samayra30/Samayra30/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Samayra30/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -181,9 +181,7 @@
 
 <p>
 
-<a href="www.linkedin.com/in/
-samayra-thakur-536a57329
-">
+<a href="www.linkedin.com/in/samayra-thakur-536a57329">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
