@@ -102,7 +102,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Samayra03&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Samayra30&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samayra03&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samayra30&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
@@ -131,7 +131,7 @@
 
 # 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samayra03&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samayra30&theme=tokyo-night"/>
 
 ---
 
@@ -139,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Samayra03/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Samayra30/Samayra30/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -187,7 +187,7 @@ samayra-thakur-536a57329
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/Samayra03">
+<a href="https://github.com/Samayra30">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
