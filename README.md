@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3B82F6,100:9333EA&text=Welcome%20to%20my%20GitHub&fontSize=40&fontAlignY=38&fontColor=ffffff"/>
 
-![](https://komarev.com/ghpvc/?username=Samayra30&label=Profile+Views&color=3B82F6&style=for-the-badge)
+
 
 </div>
 
