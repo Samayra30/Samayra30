@@ -119,12 +119,10 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="[https://raw.githubusercontent.com/Samayra30/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Samayra30/Samayra30/output/github-contribution-grid-snake-dark.svg)"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
